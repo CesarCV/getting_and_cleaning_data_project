@@ -16,3 +16,5 @@ Part 3: Labels for activities. Uses descriptive activity names to name the activ
 Part 4: Cleaning variable names. Appropriately labels the data set with descriptive variable names.
 
 Part 5: Avarages of each variable. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+The detailed process can be found on the codebook file of this repository.
